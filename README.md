@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevser Busra YILDIRIM</h1>
-<h3 align="center">A passionate Data Scientist from Turkiye. I am a graduate of Computer Engineering. Currently pursuing a Master's degree in Artificial Intelligence and Data Engineering 🤖 </h3>
+<h3 align="center"> Master's degree in Artificial Intelligence and Data Engineering & Research Assistant 🤖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevserbusrayildirim&label=Profile%20views&color=0e75b6&style=flat" alt="kevserbusrayildirim" /> </p>
 
