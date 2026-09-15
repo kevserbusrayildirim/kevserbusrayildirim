@@ -11,9 +11,8 @@
 
 - 💬 Ask me about **Artificial Intelligence and Data Engineering**
 
-- 📫 How to reach me **kevserbusrayildirim@gmail.com**
+- 📫 How to reach me **kevserbusrazumberoglu@gmail.com**
 
-- 📄 Know about my experiences [here](https://flowcv.com/resume/dp8gibd6tu).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
